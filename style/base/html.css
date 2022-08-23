@@ -1,5 +1,5 @@
-/* Onde é definido classes bases. */
-
 html{
     background-color: var(--ld-color-gray-lighter);
+    font-family: var(--ld-font-family-base);
+    font-weight: 500;
 }
