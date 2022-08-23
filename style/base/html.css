@@ -1,0 +1,5 @@
+/* Onde é definido classes bases. */
+
+html{
+    background-color: var(--ld-color-gray-lighter);
+}
